@@ -1,0 +1,47 @@
+[
+  {
+    "location": "Bengaluru",
+    "time": "My Location • Home",
+    "temperature": 23.0,
+    "condition": 1,
+    "animation": "assets/animations/rain.json",
+    "high": 28.0,
+    "low": 21.0
+  },
+  {
+    "location": "Byasanagar",
+    "time": "9:16 PM",
+    "temperature": 29.0,
+    "condition": 1,
+    "animation": "assets/animations/night.json",
+    "high": 35.0,
+    "low": 27.0
+  },
+  {
+    "location": "New York",
+    "time": "11:46 AM",
+    "temperature": 22.0,
+    "condition": 3,
+    "animation": "assets/animations/windy.json",
+    "high": 23.0,
+    "low": 16.0
+  },
+  {
+    "location": "New York",
+    "time": "11:46 AM",
+    "temperature": 22.0,
+    "condition": 5,
+    "animation": "assets/animations/windy.json",
+    "high": 23.0,
+    "low": 16.0
+  },
+  {
+    "location": "New York",
+    "time": "11:46 AM",
+    "temperature": 22.0,
+    "condition": 4,
+    "animation": "assets/animations/windy.json",
+    "high": 23.0,
+    "low": 16.0
+  }
+]
