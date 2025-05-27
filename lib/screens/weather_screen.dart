@@ -143,6 +143,7 @@ class WeatherList extends StatelessWidget {
           temperature: "27°C",
           highTemp: "30°C",
           lowTemp: "22°C",
+          condition: 5,
         ),
         childCount: 8,
       ),
